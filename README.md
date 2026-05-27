@@ -11,7 +11,7 @@
 
 </div>
 
----
+
 
 ## 👩‍💻 About Me
 
@@ -21,7 +21,7 @@
 - 🌍 Based in Sri Lanka
 - 📫 Reach me at **rashithashmi10@gmail.com**
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -56,7 +56,7 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
----
+
 
 ## 🚀 Featured Projects
 
@@ -67,26 +67,14 @@
 | ✈️ Sri Lanka Tourism Insights 2025 | Analyzed 2M+ arrivals from 195 countries | Power BI, DAX, Python |
 | 🌊 Cyclone Ditwa Flood Risk Analysis | Provincial flood exposure affecting 270K+ people | Power BI, DAX |
 
----
+
 
 ## 📜 Certifications
 
 - 🏅 **Data Storytelling** — Fractal *(Issued May 2026 · ID: 61BCUDOASM6S)*
 - 🔵 **IBM Data Analyst** — IBM *(In Progress)*
 
----
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Rashi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rashithashmi10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rashithashmi10&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ## 🤝 Let's Connect
 
@@ -103,7 +91,6 @@ I'm always open to collaborating on data projects or just having a chat about da
 
 <div align="center">
 
-*"Data is the new oil — I help refine it into decisions."*
 
 ⭐️ From [rashithashmi10](https://github.com/rashithashmi10)
 
