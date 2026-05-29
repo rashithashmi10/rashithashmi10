@@ -62,7 +62,7 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| 🏠 [SmartNest AI](https://github.com/rashithashmi10/SmartNest-AI) | Sri Lanka house price predictor using Random Forest ML | Python, Streamlit, Scikit-learn, SQL |
+| 🏠 SmartNest AI | Sri Lanka house price predictor using Random Forest ML | Python, Streamlit, Scikit-learn, SQL |
 | 🏧 Payment Transaction Analysis | Cleaned 11,589 ATM records, built 6-chart dashboard | Power BI, Python |
 | ✈️ Sri Lanka Tourism Insights 2025 | Analyzed 2M+ arrivals from 195 countries | Power BI, DAX, Python |
 | 🌊 Cyclone Ditwa Flood Risk Analysis | Provincial flood exposure affecting 270K+ people | Power BI, DAX |
