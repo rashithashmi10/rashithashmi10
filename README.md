@@ -62,6 +62,7 @@
 
 | Project | Description | Tech |
 |---|---|---|
+| ❤️ Nova AI | Interactive Personal Chatbot Assistent | Python, Streamlit, Ollama |
 | 🏠 SmartNest AI | Sri Lanka house price predictor using Random Forest ML | Python, Streamlit, Scikit-learn, SQL |
 | 🏧 Payment Transaction Analysis | Cleaned 11,589 ATM records, built 6-chart dashboard | Power BI, Python |
 | ✈️ Sri Lanka Tourism Insights 2025 | Analyzed 2M+ arrivals from 195 countries | Power BI, DAX, Python |
@@ -73,6 +74,7 @@
 
 - 🏅 **Data Storytelling** — Fractal *(Issued May 2026 · ID: 61BCUDOASM6S)*
 - 🔵 **IBM Data Analyst** — IBM *(In Progress)*
+- 🔵 **Getting Started with Microsoft Fabric** — Whizlab *(In Progress)*
 
 
 
@@ -92,6 +94,6 @@ I'm always open to collaborating on data projects or just having a chat about da
 <div align="center">
 
 
-⭐️ From [rashithashmi10](https://github.com/rashithashmi10)
+❤️ From [rashithashmi10](https://github.com/rashithashmi10)
 
 </div>
