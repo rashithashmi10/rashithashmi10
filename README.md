@@ -19,7 +19,7 @@
 - 💼 Data Analyst with **2+ years** of experience turning raw data into actionable insights
 - 📊 Passionate about building interactive dashboards, predictive models, and data stories
 - 🌍 Based in Sri Lanka
-- 📫 Reach me at **rashithashmi10@gmail.com**
+- 📫 Reach me at **rashithashmil@gmail.com**
 
 
 
